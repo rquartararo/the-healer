@@ -1,23 +1,21 @@
-import React, { useState } from 'react'
+import React from 'react'
 import './index.css'
+import Tiles from './Tiles.js'
 
-const App = () => {
-  const [counter, setCounter] = useState(0)
-  const [values, setValues] = useState([])
-
-  const handleClick = () => {
-    setCounter(counter + 1)
-    setValues(values.concat(counter))
+class App extends React.Component {
+  constructor(props, context) {
+    super(props, context);
+    this.state = {
+      inventory: []
+    };
   }
-
-  return (
-    <div className="container">
-      hello webpack {counter} clicks
-      <button onClick={handleClick}>
-        press
-      </button>
-    </div>
-  )
+  render() {
+    return (
+      <div >
+        <Tiles />
+      </div>
+    )
+  }
 }
 
 export default App

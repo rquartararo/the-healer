@@ -1,4 +1,20 @@
-.container {
-  margin: 10;
+body {
   background-color: #5c87b7;
+  overflow: hidden;
+  background-image: url(../images/airmid-tilemap.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tilemap {
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(76, 20px);
+  grid-template-rows: repeat(29, 20px);
+}
+
+.tile {
+  width: 20px;
+  height: 20px;
 }
