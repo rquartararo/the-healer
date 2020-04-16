@@ -137,7 +137,75 @@ img {
   z-index: 1;
 }
 
-.item {
+.item1 {
   width: 25px;
   height: 25px;
+  position: relative;
+  top: 680px;
+  left: 100px;
+}
+
+.item2 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  top: 700px;
+  left: 500px;
+}
+
+.item3 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  top: 70px;
+  left: 420px;
+}
+.item4 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  top: 100px;
+  left: 100px;
+}
+.item5 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  top: 400px;
+  left: 1200px;
+}
+.item6 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  top: 670px;
+  left: 700px;
+}
+.item7 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  top: 30px;
+  left: 1200px;
+}
+.item8 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  top: 400px;
+  left: 100px;
+}
+.item9 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  top: 700px;
+  left: 1200px;
+}
+.item10 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  top: 50px;
+  left: 600px;
 }

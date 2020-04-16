@@ -99,6 +99,32 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./images/Book-3.png":
+/*!***************************!*\
+  !*** ./images/Book-3.png ***!
+  \***************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "d4344b33476403fc8126db0ff2622b8e.png");
+
+/***/ }),
+
+/***/ "./images/Crystal.png":
+/*!****************************!*\
+  !*** ./images/Crystal.png ***!
+  \****************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "3b88265026f5c61469f399f26982e5db.png");
+
+/***/ }),
+
 /***/ "./images/Gear.png":
 /*!*************************!*\
   !*** ./images/Gear.png ***!
@@ -112,16 +138,107 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./images/Potion006.png":
-/*!******************************!*\
-  !*** ./images/Potion006.png ***!
-  \******************************/
+/***/ "./images/Golden-Sword.png":
+/*!*********************************!*\
+  !*** ./images/Golden-Sword.png ***!
+  \*********************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "d78f6b3bcf985cc5aa9cca934d91464c.png");
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "520051a2341b9ada5b285a46dfb139d4.png");
+
+/***/ }),
+
+/***/ "./images/Iron-Armor.png":
+/*!*******************************!*\
+  !*** ./images/Iron-Armor.png ***!
+  \*******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "e257b714c58f673b2939313691cf43d0.png");
+
+/***/ }),
+
+/***/ "./images/Mushroom.png":
+/*!*****************************!*\
+  !*** ./images/Mushroom.png ***!
+  \*****************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "d736e8d2ece99cfd8b4955eb83030238.png");
+
+/***/ }),
+
+/***/ "./images/Red-Potion.png":
+/*!*******************************!*\
+  !*** ./images/Red-Potion.png ***!
+  \*******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "5739c7be459bfc1b5d35246c8f161c10.png");
+
+/***/ }),
+
+/***/ "./images/Rune-Stone.png":
+/*!*******************************!*\
+  !*** ./images/Rune-Stone.png ***!
+  \*******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "25c4a2ec168a30c72c3ff533495bf1a8.png");
+
+/***/ }),
+
+/***/ "./images/Sapphire-Staff.png":
+/*!***********************************!*\
+  !*** ./images/Sapphire-Staff.png ***!
+  \***********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "78441b2ff50ae5638415980e87acefc2.png");
+
+/***/ }),
+
+/***/ "./images/Sapphire.png":
+/*!*****************************!*\
+  !*** ./images/Sapphire.png ***!
+  \*****************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "6e7bac20154f9268808bc6622c03f1df.png");
+
+/***/ }),
+
+/***/ "./images/Wizard-Hat.png":
+/*!*******************************!*\
+  !*** ./images/Wizard-Hat.png ***!
+  \*******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "567e9d7f609550bddd91aef079b8b308.png");
 
 /***/ }),
 
@@ -134,7 +251,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "111e56d31e836519e77743b3c4d7ea8b.png");
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "a82f1821913f0d0732fb5f4068fd951d.png");
 
 /***/ }),
 
@@ -187,6 +304,19 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "fee45314a94e1abc59525762dabbcee2.png");
+
+/***/ }),
+
+/***/ "./images/sprite-sit.png":
+/*!*******************************!*\
+  !*** ./images/sprite-sit.png ***!
+  \*******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "ec98e4c6fce56251832b982834da022e.png");
 
 /***/ }),
 
@@ -10939,9 +11069,10 @@ var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-lo
 var ___CSS_LOADER_GET_URL_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ "./node_modules/css-loader/dist/runtime/getUrl.js");
 var ___CSS_LOADER_URL_IMPORT_0___ = __webpack_require__(/*! ../images/airmid-tilemap.png */ "./images/airmid-tilemap.png");
 exports = ___CSS_LOADER_API_IMPORT___(false);
+exports.push([module.i, "@import url(https://fonts.googleapis.com/css2?family=VT323&display=swap);"]);
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_0___);
 // Module
-exports.push([module.i, "\n\nbody {\n  background-color: #5c87b7;\n  background-image: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ");\n  background-repeat: no-repeat;\n  background-size: cover;\n  overflow: hidden;\n}\n\n.tilemap {\n  position: absolute;\n  height: 100%;\n  width: 100%;\n  display: grid;\n  grid-template-columns: repeat(76, 20px);\n  grid-template-rows: repeat(29, 20px);\n}\n\n.tile {\n  width: 20px;\n  height: 20px;\n}\n\n#sprite {\n  position: relative;\n  width: 60px;\n  height: 60px;\n}\n\n.btn {\n  position: absolute;\n}\n\n.settingsBtn {\n  position: absolute;\n  left: 50px;\n}\n\n.inventory {\n  position: absolute;\n  top: 40%;\n  left: 40%; \n  width: 330px;\n  height: 130px;  \n  background-color:#bfb777;\n  z-index: 1; \n}\n\n.itemPopup {\n  position: absolute;\n  top: 40%;\n  left: 40%; \n  width: 330px;\n  height: 130px;  \n  background-color:#bfb777;\n  z-index: 1; \n}\n\n.settings {\n  position: absolute;\n  top: 40%;\n  left: 40%; \n  width: 330px;\n  height: 130px;  \n  background-color:#bfb777;\n  z-index: 1;\n}\n\n.settings.p {\n  font-family: Arial, Helvetica, sans-serif;\n} \n\n.inventoryInner {  \n  display: grid;\n  grid-template-columns: repeat(5, 50px);\n  grid-template-rows: repeat(2, 50px);\n  column-gap: 10px;\n  row-gap: 10px;\n  padding: 10px;\n}\n\n.inventorySlot {\n  background-color: wheat;\n  height: 50px;\n  width: 50px;\n  \n}\n\n.close {\n  float: left;\n  padding-left: 5px;\n}\n\n.shadow {\n  position: absolute; \n  top: 0; left: 0;\n  background-color: rgba(0,0,0, 0.5);  \n  width: 100%;  \n  height: 100%; \n  z-index: 1;\n}", ""]);
+exports.push([module.i, "body {\n  background-color: #5c87b7;\n  background-image: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ");\n  background-repeat: no-repeat;\n  background-size: cover;\n  overflow: hidden;\n}\n\n.tilemap {\n  position: absolute;\n  height: 100%;\n  width: 100%;\n  display: grid;\n  grid-template-columns: repeat(76, 20px);\n  grid-template-rows: repeat(29, 20px);\n}\n\n.tile {\n  width: 20px;\n  height: 20px;\n}\n\n#sprite {\n  position: relative;\n  width: 60px;\n  height: 60px;\n}\n\n.btn {\n  position: absolute;\n}\n\n.settingsBtn {\n  position: absolute;\n  left: 50px;\n}\n\n.inventory {\n  position: absolute;\n  top: 40%;\n  left: 40%; \n  width: 330px;\n  height: 130px;  \n  background-color:#bfb777;\n  z-index: 1; \n}\n\n.itemPopup {\n  position: absolute;\n  top: 40%;\n  left: 40%; \n  width: 310px;\n  height: 70px;  \n  background-color:wheat;\n  z-index: 1; \n}\n\n.settings {\n  display: flex;\n  flex-direction: column;\n  position: absolute;\n  top: 40%;\n  left: 40%; \n  width: 330px;\n  height: 180px;  \n  background-color:wheat;\n  z-index: 1;\n  text-align: center;\n  font-size: 40px;\n  padding-bottom: 20px;\n  \n}\n\n.settings p {\n  margin-top: 20px;\n  margin-bottom: 0px;\n  color:#4694a6 ;\n}\n\nstrong {\n  color: #5c87b7;\n}\n\n.resume {\n  font-family: 'VT323', monospace;\n  font-size: 15px;\n  border: none;\n  height: 30px;\n  cursor: pointer;\n  margin-left: 60px;\n  margin-right: 60px;\n  margin-top: 5px;\n  margin-bottom: 10px;\n  \n}\n\np {\n  font-family: 'VT323', monospace;\n  margin: 20px\n} \n\nimg {\n  cursor: pointer;\n}\n\n\n.inventoryInner {  \n  display: grid;\n  grid-template-columns: repeat(5, 50px);\n  grid-template-rows: repeat(2, 50px);\n  column-gap: 10px;\n  row-gap: 10px;\n  padding: 10px;\n}\n\n.inventorySlot {\n  background-color: wheat;\n  height: 50px;\n  width: 50px;\n  \n}\n\n.close {\n  float: left;\n  padding-left: 5px;\n  cursor: pointer;\n}\n\n.shadow {\n  position: absolute; \n  top: 0; left: 0;\n  background-color: rgba(0,0,0, 0.5);  \n  width: 100%;  \n  height: 100%; \n  z-index: 1;\n}\n\n.item {\n  width: 25px;\n  height: 25px;\n}", ""]);
 // Exports
 module.exports = exports;
 
@@ -19743,8 +19874,19 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _images_sprite_2_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../.././images/sprite-2.png */ "./images/sprite-2.png");
 /* harmony import */ var _images_sprite_3_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../.././images/sprite-3.png */ "./images/sprite-3.png");
 /* harmony import */ var _images_sprite_4_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../.././images/sprite-4.png */ "./images/sprite-4.png");
-/* harmony import */ var _images_Bag_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../.././images/Bag.png */ "./images/Bag.png");
-/* harmony import */ var _images_Gear_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../.././images/Gear.png */ "./images/Gear.png");
+/* harmony import */ var _images_sprite_sit_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../.././images/sprite-sit.png */ "./images/sprite-sit.png");
+/* harmony import */ var _images_Bag_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../.././images/Bag.png */ "./images/Bag.png");
+/* harmony import */ var _images_Gear_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../.././images/Gear.png */ "./images/Gear.png");
+/* harmony import */ var _images_Red_Potion_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../.././images/Red-Potion.png */ "./images/Red-Potion.png");
+/* harmony import */ var _images_Book_3_png__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../.././images/Book-3.png */ "./images/Book-3.png");
+/* harmony import */ var _images_Crystal_png__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../.././images/Crystal.png */ "./images/Crystal.png");
+/* harmony import */ var _images_Golden_Sword_png__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ../.././images/Golden-Sword.png */ "./images/Golden-Sword.png");
+/* harmony import */ var _images_Iron_Armor_png__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ../.././images/Iron-Armor.png */ "./images/Iron-Armor.png");
+/* harmony import */ var _images_Mushroom_png__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ../.././images/Mushroom.png */ "./images/Mushroom.png");
+/* harmony import */ var _images_Rune_Stone_png__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ../.././images/Rune-Stone.png */ "./images/Rune-Stone.png");
+/* harmony import */ var _images_Sapphire_Staff_png__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ../.././images/Sapphire-Staff.png */ "./images/Sapphire-Staff.png");
+/* harmony import */ var _images_Sapphire_png__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ../.././images/Sapphire.png */ "./images/Sapphire.png");
+/* harmony import */ var _images_Wizard_Hat_png__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ../.././images/Wizard-Hat.png */ "./images/Wizard-Hat.png");
 function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
 function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
@@ -19780,6 +19922,21 @@ function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Re
 function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
 
 
+ //components 
+
+
+
+
+ //sprite
+
+
+
+
+
+ //UI
+
+
+ //items
 
 
 
@@ -19806,6 +19963,7 @@ var App = /*#__PURE__*/function (_React$Component) {
     _this.state = {
       showInventory: false,
       inventory: [],
+      itemsSrc: ["".concat(_images_Red_Potion_png__WEBPACK_IMPORTED_MODULE_13__["default"]), "".concat(_images_Book_3_png__WEBPACK_IMPORTED_MODULE_14__["default"]), "".concat(_images_Crystal_png__WEBPACK_IMPORTED_MODULE_15__["default"]), "".concat(_images_Golden_Sword_png__WEBPACK_IMPORTED_MODULE_16__["default"]), "".concat(_images_Iron_Armor_png__WEBPACK_IMPORTED_MODULE_17__["default"]), "".concat(_images_Mushroom_png__WEBPACK_IMPORTED_MODULE_18__["default"]), "".concat(_images_Rune_Stone_png__WEBPACK_IMPORTED_MODULE_19__["default"]), "".concat(_images_Sapphire_Staff_png__WEBPACK_IMPORTED_MODULE_20__["default"]), "".concat(_images_Sapphire_png__WEBPACK_IMPORTED_MODULE_21__["default"]), "".concat(_images_Wizard_Hat_png__WEBPACK_IMPORTED_MODULE_22__["default"])],
       spritePositionTop: 340,
       spritePositionLeft: 0,
       spriteSrc: "".concat(_images_sprite_3_png__WEBPACK_IMPORTED_MODULE_8__["default"]),
@@ -19831,6 +19989,8 @@ var App = /*#__PURE__*/function (_React$Component) {
   }, {
     key: "handleKey",
     value: function handleKey(event) {
+      var _this2 = this;
+
       if (event.keyCode === 39) {
         this.setState({
           spritePositionLeft: this.state.spritePositionLeft + 20,
@@ -19862,6 +20022,28 @@ var App = /*#__PURE__*/function (_React$Component) {
           spriteSrc: "".concat(_images_sprite_1_png__WEBPACK_IMPORTED_MODULE_6__["default"])
         });
       }
+
+      if (event.keyCode === 32) {
+        this.setState(function (prevState) {
+          return {
+            spritePositionTop: _this2.state.spritePositionTop - 20
+          };
+        }, function () {
+          setTimeout(function () {
+            _this2.setState(function (prevState) {
+              return {
+                spritePositionTop: _this2.state.spritePositionTop + 20
+              };
+            });
+          }, 500);
+        });
+      }
+
+      if (event.keyCode === 13) {
+        this.setState({
+          spriteSrc: "".concat(_images_sprite_sit_png__WEBPACK_IMPORTED_MODULE_10__["default"])
+        });
+      }
     }
   }, {
     key: "togglePopup",
@@ -19872,10 +20054,14 @@ var App = /*#__PURE__*/function (_React$Component) {
     }
   }, {
     key: "pickupItem",
-    value: function pickupItem(src, name) {
+    value: function pickupItem(src, name, id) {
+      var newItems = _toConsumableArray(this.state.itemsSrc);
+
+      newItems[id] = '';
       this.setState({
         inventory: [].concat(_toConsumableArray(this.state.inventory), [src]),
-        lastItemClicked: name
+        lastItemClicked: name,
+        itemsSrc: newItems
       });
       this.itemPopup();
     }
@@ -19900,12 +20086,12 @@ var App = /*#__PURE__*/function (_React$Component) {
         className: "btn",
         onClick: this.togglePopup
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _images_Bag_png__WEBPACK_IMPORTED_MODULE_10__["default"]
+        src: _images_Bag_png__WEBPACK_IMPORTED_MODULE_11__["default"]
       })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "settingsBtn",
         onClick: this.toggleSettings
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _images_Gear_png__WEBPACK_IMPORTED_MODULE_11__["default"]
+        src: _images_Gear_png__WEBPACK_IMPORTED_MODULE_12__["default"]
       })), this.state.showInventory ? /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Inventory_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
         toggle: this.togglePopup,
         inventory: this.state.inventory
@@ -19922,7 +20108,8 @@ var App = /*#__PURE__*/function (_React$Component) {
           left: this.state.spritePositionLeft
         }
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Map_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
-        pickupItem: this.pickupItem
+        pickupItem: this.pickupItem,
+        itemsSrc: this.state.itemsSrc
       }));
     }
   }]);
@@ -20153,7 +20340,7 @@ var ItemPopup = /*#__PURE__*/function (_React$Component) {
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
         className: "close",
         onClick: this.handleClick
-      }, "\xD7"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "What's this? You found a ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", null, this.props.lastItemClicked), "! Let's put this in our backpack for safe keeping. ")));
+      }, "\xD7"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "What's this? You found ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", null, this.props.lastItemClicked), "! Let's put this in our backpack for safe keeping. ")));
     }
   }]);
 
@@ -20175,7 +20362,16 @@ var ItemPopup = /*#__PURE__*/function (_React$Component) {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../.././images/Potion006.png */ "./images/Potion006.png");
+/* harmony import */ var _images_Red_Potion_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../.././images/Red-Potion.png */ "./images/Red-Potion.png");
+/* harmony import */ var _images_Book_3_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../.././images/Book-3.png */ "./images/Book-3.png");
+/* harmony import */ var _images_Crystal_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../.././images/Crystal.png */ "./images/Crystal.png");
+/* harmony import */ var _images_Golden_Sword_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../.././images/Golden-Sword.png */ "./images/Golden-Sword.png");
+/* harmony import */ var _images_Iron_Armor_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../.././images/Iron-Armor.png */ "./images/Iron-Armor.png");
+/* harmony import */ var _images_Mushroom_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../.././images/Mushroom.png */ "./images/Mushroom.png");
+/* harmony import */ var _images_Rune_Stone_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../.././images/Rune-Stone.png */ "./images/Rune-Stone.png");
+/* harmony import */ var _images_Sapphire_Staff_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../.././images/Sapphire-Staff.png */ "./images/Sapphire-Staff.png");
+/* harmony import */ var _images_Sapphire_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../.././images/Sapphire.png */ "./images/Sapphire.png");
+/* harmony import */ var _images_Wizard_Hat_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../.././images/Wizard-Hat.png */ "./images/Wizard-Hat.png");
 function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -20201,6 +20397,15 @@ function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.g
 
 
 
+
+
+
+
+
+
+
+
+
 var Items = /*#__PURE__*/function (_React$Component) {
   _inherits(Items, _React$Component);
 
@@ -20216,105 +20421,113 @@ var Items = /*#__PURE__*/function (_React$Component) {
     key: "render",
     value: function render() {
       return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"],
+        className: "item",
+        src: this.props.itemsSrc[0],
         styles: {
           position: 'relative',
           top: '100',
           left: '100'
         },
         onClick: this.props.pickupItem.bind(this, {
-          potion: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"]
-        }, "potion")
+          potion: _images_Red_Potion_png__WEBPACK_IMPORTED_MODULE_1__["default"]
+        }, "a healing potion", '0')
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"],
+        className: "item",
+        src: this.props.itemsSrc[1],
         styles: {
           position: 'relative',
           top: '100',
           left: '200'
         },
         onClick: this.props.pickupItem.bind(this, {
-          potion: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"]
-        }, "potion")
+          book: _images_Book_3_png__WEBPACK_IMPORTED_MODULE_2__["default"]
+        }, "an old book", 1)
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"],
+        className: "item",
+        src: this.props.itemsSrc[2],
         styles: {
           position: 'relative',
           top: '100',
           left: '300'
         },
         onClick: this.props.pickupItem.bind(this, {
-          potion: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"]
-        }, "potion")
+          crystal: _images_Crystal_png__WEBPACK_IMPORTED_MODULE_3__["default"]
+        }, "a crystal", 2)
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"],
+        className: "item",
+        src: this.props.itemsSrc[3],
         styles: {
           position: 'relative',
           top: '100',
           left: '400'
         },
         onClick: this.props.pickupItem.bind(this, {
-          potion: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"]
-        }, "potion")
+          sword: _images_Golden_Sword_png__WEBPACK_IMPORTED_MODULE_4__["default"]
+        }, "a golden sword", 3)
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"],
+        className: "item",
+        src: this.props.itemsSrc[4],
         styles: {
           position: 'relative',
           top: '100',
           left: '500'
         },
         onClick: this.props.pickupItem.bind(this, {
-          potion: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"]
-        }, "potion")
+          armor: _images_Iron_Armor_png__WEBPACK_IMPORTED_MODULE_5__["default"]
+        }, "iron armor", 4)
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"],
+        className: "item",
+        src: this.props.itemsSrc[5],
         styles: {
           position: 'relative',
           top: '100',
           left: '600'
         },
         onClick: this.props.pickupItem.bind(this, {
-          potion: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"]
-        }, "potion")
+          mushroom: _images_Mushroom_png__WEBPACK_IMPORTED_MODULE_6__["default"]
+        }, "a mushroom", 5)
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"],
+        src: this.props.itemsSrc[6],
         styles: {
           position: 'relative',
           top: '100',
           left: '700'
         },
         onClick: this.props.pickupItem.bind(this, {
-          potion: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"]
-        }, "potion")
+          rune: _images_Rune_Stone_png__WEBPACK_IMPORTED_MODULE_7__["default"]
+        }, "a rune stone", 6)
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"],
+        src: this.props.itemsSrc[7],
         styles: {
           position: 'relative',
           top: '100',
           left: '800'
         },
         onClick: this.props.pickupItem.bind(this, {
-          potion: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"]
-        }, "potion")
+          staff: _images_Sapphire_Staff_png__WEBPACK_IMPORTED_MODULE_8__["default"]
+        }, "a magic staff", 7)
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"],
+        className: "item",
+        src: this.props.itemsSrc[8],
         styles: {
           position: 'relative',
           top: '100',
           left: '900'
         },
         onClick: this.props.pickupItem.bind(this, {
-          potion: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"]
-        }, "potion")
+          sapphire: _images_Sapphire_png__WEBPACK_IMPORTED_MODULE_9__["default"]
+        }, "a sapphire", 8)
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"],
+        className: "item",
+        src: this.props.itemsSrc[9],
         styles: {
           position: 'relative',
           top: '100',
           left: '1000'
         },
         onClick: this.props.pickupItem.bind(this, {
-          potion: _images_Potion006_png__WEBPACK_IMPORTED_MODULE_1__["default"]
-        }, "potion")
+          hat: _images_Wizard_Hat_png__WEBPACK_IMPORTED_MODULE_10__["default"]
+        }, "wizard hat", 9)
       }));
     }
   }]);
@@ -20388,7 +20601,8 @@ var Map = /*#__PURE__*/function (_React$Component) {
       }
 
       return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Items_js__WEBPACK_IMPORTED_MODULE_1__["default"], {
-        pickupItem: this.props.pickupItem
+        pickupItem: this.props.pickupItem,
+        itemsSrc: this.props.itemsSrc
       }));
     }
   }]);
@@ -20463,8 +20677,13 @@ var Settings = /*#__PURE__*/function (_React$Component) {
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "settings"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Airmid"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
+        className: "resume",
         onClick: this.handleClick
-      }, "Resume Game")));
+      }, "Resume Game"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
+        className: "resume"
+      }, " Save Game"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
+        className: "resume"
+      }, " Settings ")));
     }
   }]);
 

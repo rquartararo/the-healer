@@ -25,6 +25,7 @@ import rune from '../.././images/Rune-Stone.png'
 import staff from '../.././images/Sapphire-Staff.png'
 import sapphire from '../.././images/Sapphire.png'
 import hat from '../.././images/Wizard-Hat.png'
+import blank from '../.././images/blank.png'
 
 class App extends React.Component {
   constructor(props, context) {
@@ -109,7 +110,7 @@ class App extends React.Component {
 
   pickupItem(src, name, id) {
     let newItems = [...this.state.itemsSrc]
-    newItems[id] = ''
+    newItems[id] = blank
 
     this.setState({
       inventory: [...this.state.inventory, src],
