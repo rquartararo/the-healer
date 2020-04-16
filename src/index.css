@@ -1,3 +1,5 @@
+
+
 body {
   background-color: #5c87b7;
   background-image: url(../images/airmid-tilemap.png);
@@ -30,6 +32,11 @@ body {
   position: absolute;
 }
 
+.settingsBtn {
+  position: absolute;
+  left: 50px;
+}
+
 .inventory {
   position: absolute;
   top: 40%;
@@ -49,6 +56,20 @@ body {
   background-color:#bfb777;
   z-index: 1; 
 }
+
+.settings {
+  position: absolute;
+  top: 40%;
+  left: 40%; 
+  width: 330px;
+  height: 130px;  
+  background-color:#bfb777;
+  z-index: 1;
+}
+
+.settings.p {
+  font-family: Arial, Helvetica, sans-serif;
+} 
 
 .inventoryInner {  
   display: grid;

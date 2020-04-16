@@ -3,11 +3,13 @@ import '../index.css'
 import Map from './Map.js'
 import Inventory from './Inventory.js'
 import ItemPopup from './ItemPopup.js'
+import Settings from './Settings.js'
 import sprite1 from '../.././images/sprite-1.png'
 import sprite2 from '../.././images/sprite-2.png'
 import sprite3 from '../.././images/sprite-3.png'
 import sprite4 from '../.././images/sprite-4.png'
 import bag from '../.././images/Bag.png'
+import gear from '../.././images/Gear.png'
 
 class App extends React.Component {
   constructor(props, context) {
@@ -99,12 +101,17 @@ class App extends React.Component {
         <div className="btn" onClick={this.togglePopup}>
           <img src={bag} />
         </div>
+        <div className="settingsBtn" onClick={this.toggleSettings}>
+          <img src={gear} />
+        </div>
         {this.state.showInventory ? <Inventory
           toggle={this.togglePopup}
           inventory={this.state.inventory} /> : null}
         {this.state.showItemPopup ? <ItemPopup
           showItemPopup={this.itemPopup}
           lastItemClicked={this.state.lastItemClicked} /> : null}
+        {this.state.showSettings ? <Settings
+          toggleSettings={this.toggleSettings} /> : null}
         {/* settings buttons */}
 
         {/* character sprite */}
