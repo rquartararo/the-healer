@@ -15,7 +15,7 @@ class ItemPopup extends React.Component {
       <div className="shadow">
         <div className="itemPopup">
           <span className="close" onClick={this.handleClick}>&times;</span>
-          <p>What's this? You found a <strong>{this.props.lastItemClicked}</strong>! Let's put this in our backpack for safe keeping. </p>
+          <p>What's this? You found <strong>{this.props.lastItemClicked}</strong>! Let's put this in our backpack for safe keeping. </p>
         </div>
       </div>
     )

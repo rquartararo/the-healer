@@ -15,7 +15,9 @@ class Settings extends React.Component {
       <div className="shadow">
         <div className="settings">
           <p>Airmid</p>
-          <button onClick={this.handleClick} >Resume Game</button>
+          <button className="resume" onClick={this.handleClick} >Resume Game</button>
+          <button className="resume" > Save Game</button>
+          <button className="resume" > Settings </button>
         </div>
       </div>
     )

@@ -16,7 +16,7 @@ class Map extends React.Component {
         {/* <div className="tilemap">
           {allTiles}
         </div> */}
-        <Items pickupItem={this.props.pickupItem} />
+        <Items pickupItem={this.props.pickupItem} itemsSrc={this.props.itemsSrc} />
       </div>
     )
   }
